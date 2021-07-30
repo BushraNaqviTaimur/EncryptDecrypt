@@ -1,0 +1,12 @@
+/Users/bushra/Documents/VS Projects/EncryptDecrypt/EncryptDecrypt/bin/Debug/netcoreapp3.1/EncryptDecrypt.deps.json
+/Users/bushra/Documents/VS Projects/EncryptDecrypt/EncryptDecrypt/bin/Debug/netcoreapp3.1/EncryptDecrypt.runtimeconfig.json
+/Users/bushra/Documents/VS Projects/EncryptDecrypt/EncryptDecrypt/bin/Debug/netcoreapp3.1/EncryptDecrypt.runtimeconfig.dev.json
+/Users/bushra/Documents/VS Projects/EncryptDecrypt/EncryptDecrypt/bin/Debug/netcoreapp3.1/EncryptDecrypt.dll
+/Users/bushra/Documents/VS Projects/EncryptDecrypt/EncryptDecrypt/bin/Debug/netcoreapp3.1/EncryptDecrypt.pdb
+/Users/bushra/Documents/VS Projects/EncryptDecrypt/EncryptDecrypt/obj/Debug/netcoreapp3.1/EncryptDecrypt.csprojAssemblyReference.cache
+/Users/bushra/Documents/VS Projects/EncryptDecrypt/EncryptDecrypt/obj/Debug/netcoreapp3.1/EncryptDecrypt.AssemblyInfoInputs.cache
+/Users/bushra/Documents/VS Projects/EncryptDecrypt/EncryptDecrypt/obj/Debug/netcoreapp3.1/EncryptDecrypt.AssemblyInfo.cs
+/Users/bushra/Documents/VS Projects/EncryptDecrypt/EncryptDecrypt/obj/Debug/netcoreapp3.1/EncryptDecrypt.csproj.CoreCompileInputs.cache
+/Users/bushra/Documents/VS Projects/EncryptDecrypt/EncryptDecrypt/obj/Debug/netcoreapp3.1/EncryptDecrypt.dll
+/Users/bushra/Documents/VS Projects/EncryptDecrypt/EncryptDecrypt/obj/Debug/netcoreapp3.1/EncryptDecrypt.pdb
+/Users/bushra/Documents/VS Projects/EncryptDecrypt/EncryptDecrypt/obj/Debug/netcoreapp3.1/EncryptDecrypt.genruntimeconfig.cache

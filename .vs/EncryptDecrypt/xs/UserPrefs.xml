@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6106BED3-0778-4296-AEBF-342C4998186E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EncryptDecrypt/Program.cs">
+    <Files>
+      <File FileName="EncryptDecrypt/Program.cs" Line="81" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EncryptDecrypt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
